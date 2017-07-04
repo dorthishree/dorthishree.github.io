@@ -213,8 +213,33 @@ div.col-md-1
 {
     margin-top: -27px;
 }
+div#menu{
+    margin-top: -9px;
+}
 div#menu li a
 {
     padding:5px;
 
+}
+#head
+{
+    width:100%;
+}
+.foot
+{
+    float:right;
+}
+.badge
+{
+  float: right;
+    color:black;
+    background-color: transparent;
+}
+.dropdown-menu>li>a
+{
+        color: #333 !important;
+}
+.but
+{
+    width: 100%;
 }
