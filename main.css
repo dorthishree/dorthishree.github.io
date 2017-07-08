@@ -2,7 +2,7 @@
 {
     height: 42px;
     background: rgb(59,89,152);
-    border: none;
+     border-bottom: 1px solid darkblue;
 }
 #wrapper {
   margin-top: 16px;
@@ -242,4 +242,31 @@ div#menu li a
 .but
 {
     width: 100%;
+}
+.notif
+{
+color: white;
+    background-color: red;
+    /* border-radius: 0; */
+    position: absolute;
+    margin-left: 17px;
+    margin-top: -36px;
+}
+#myCarousel
+{
+       margin-top: 59px;
+    height: 136px;
+}
+.sug
+{
+        background: white;
+    padding: 9px;
+    position: absolute;
+    margin-top: 0px;
+    width: 89%;
+}
+.sugg
+{
+background: white;
+    padding-left: 9px;
 }
