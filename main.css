@@ -257,6 +257,19 @@ color: white;
        margin-top: 59px;
     height: 136px;
 }
+.list-group-item
+{
+    background: white !important;
+    color:black !important;
+}
+.list-group-item-text
+{
+    color: black !important;
+}
+.br
+{
+    height: 18px;
+}
 .sug
 {
         background: white;
@@ -269,4 +282,8 @@ color: white;
 {
 background: white;
     padding-left: 9px;
+}
+.cmnt
+{
+    color:blue;
 }
